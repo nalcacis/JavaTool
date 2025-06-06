@@ -1,1 +1,2 @@
 HELLO!!! This is a hello file created in JavaTool branch
+THIS FILE IS UPDATED! initializeproject step2
